@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Nageri | Home
 ---
 
 # **Who am I?**
@@ -7,7 +8,7 @@ layout: default
 I am a fullstack software developer who also loved DevOps paracties and, always automating my applications.  
 I have bachelor's degree in Computer Science from Makerere University.  
 Am a open-minded, free spirit and festive guy.
-I am a Ugandan with Kenyan roots, I guess that makes me East African.
+I am a Ugandan with Kenyan roots, I guess that makes me East African 💪👨‍💻.
 
 #HAKUNA MATATA
 
@@ -40,7 +41,7 @@ willing to go far and wide, to keep my self up-to-date in this field of I.T. (_S
 - Serving (👉 ﾟヮﾟ)👉
 - Dancing 💃🕺
 
-## [Check out my pictorial](./pictorial-page.html).🖼️📷
+## [Check out my pictorial](./another-page.html).🖼️📷
 
 ```sh
 echo "Hello World, I join & make $winning_teams"

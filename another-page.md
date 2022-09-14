@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Pictorial
 ---
 
 ## See me, do me! 💖🥳
